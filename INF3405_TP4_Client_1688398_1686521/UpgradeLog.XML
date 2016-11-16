@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab3">
+</Property><Property Name="Fichier solution" Value="\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\Lab3\Lab3.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\Lab3\Lab3.suo">
+</Property><Property Name="Date" Value="17 octobre 2011">
+</Property><Property Name="Time" Value="11:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lab3.sln" Description="Fichier correctement sauvegardé en tant que \\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\Lab3\Lab3.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Lab3.suo" Description="Fichier correctement sauvegardé en tant que \\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\Lab3\Lab3.suo.old">
+</Event><Event ErrorLevel="0" Project="Lab301" Source="Lab301\Lab301.vcproj" Description="Converting project file '\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\Lab3\Lab301\Lab301.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Lab301" Source="Lab301\Lab301.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Lab301" Source="Lab301\Lab301.vcproj" Description="Done converting to new project file '\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\Lab3\Lab301\Lab301.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Lab301" Source="Lab301\Lab301.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lab302" Source="Lab302\Lab302.vcproj" Description="Converting project file '\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\Lab3\Lab302\Lab302.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Lab302" Source="Lab302\Lab302.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Lab302" Source="Lab302\Lab302.vcproj" Description="Done converting to new project file '\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\Lab3\Lab302\Lab302.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Lab302" Source="Lab302\Lab302.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lab3.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="Lab3.sln" Description="Converted">
+</Event></UpgradeLog>

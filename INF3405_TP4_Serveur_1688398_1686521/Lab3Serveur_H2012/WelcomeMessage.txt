@@ -1,0 +1,8 @@
+Bienvenue au systeme de vote en ligne!
+
+Reglements: 
+1. Vous devez voter pour un et un seul candidat
+2. Les candidats possedent un numero a leur gauche.
+3. Pour voter pour un candidat, entrer le numero a sa gauche
+4. Tout numero sans correspondance sera considere comme une abstention
+_______________________________________________________________________________

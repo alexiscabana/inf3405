@@ -1,0 +1,27 @@
+﻿La génération a démarré 2012-02-20 17:56:54.
+     1>Projet "\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Lab3Serveur_H2012\Lab3Serveur_H2012.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\Lab3Serveur_H2012.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Lab3Serveur_H2012.exe.embed.manifest.res" Debug\Lab3Serveur_H2012_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Debug\Lab3Serveur_H2012.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Lab3Serveur_H2012.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Debug\Lab3Serveur_H2012.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Debug\Lab3Serveur_H2012.lib" /MACHINE:X86 Debug\Lab3Serveur_H2012.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Lab3Serveur_H2012.exe.embed.manifest" /manifest Debug\Lab3Serveur_H2012.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Lab3Serveur_H2012.exe.embed.manifest.res" Debug\Lab3Serveur_H2012_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Debug\Lab3Serveur_H2012.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Lab3Serveur_H2012.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Debug\Lab3Serveur_H2012.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Debug\Lab3Serveur_H2012.lib" /MACHINE:X86 Debug\Lab3Serveur_H2012.exe.embed.manifest.res
+         Debug\main.obj
+         Lab3Serveur_H2012.vcxproj -> \\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Debug\Lab3Serveur_H2012.exe
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\Lab3Serveur_H2012.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\Lab3Serveur_H2012.lastbuildstate".
+     1>Génération du projet "\\vnode1.labos.polymtl.ca\usagers-vn1\a\auran\profiles\Desktop\INF3405\INF3405Lab3\Lab3Serveur_H2012\Lab3Serveur_H2012\Lab3Serveur_H2012.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:08.31
